@@ -56,12 +56,12 @@ clinic_booking_project/
 ![Clinic ERD](ERD.png)
 
 **## 🧩 Technologies Used**
-MySQL
-FastAPI
-SQLAlchemy
-Pydantic
-Uvicorn
-Python 3.11+
+ - MySQL
+ - FastAPI
+ - SQLAlchemy
+ - Pydantic
+ - Uvicorn
+ - Python 3.11+
 
 ***## 📌 Author***
 Developed by Sophia Nakhanu
