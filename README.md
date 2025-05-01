@@ -64,5 +64,7 @@ clinic_booking_project/
  - Python 3.11+
 
 ***## 📌 Author***
+
 Developed by Sophia Nakhanu
+
 Course: Web Development + Database Systems
